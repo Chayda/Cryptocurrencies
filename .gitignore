@@ -1,3 +1,18 @@
+# Module 16 practice dataset
+iris.csv
+Practice_iris.ipynb
+new_iris_data.csv
+shopping_data.csv
+shopping_data_cleaned.csv
+
+# ipynb_checkpoints directory
+.ipynb_checkpoints/
+
+# Starter Code file
+crypto_clustering_starter_code.ipynb
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
